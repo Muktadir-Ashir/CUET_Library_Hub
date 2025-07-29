@@ -1,4 +1,4 @@
-#CUET Library Hub
+**CUET Library Hub
 
 Streamlining Library Management for CUET
 
